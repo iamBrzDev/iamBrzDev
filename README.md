@@ -4,9 +4,9 @@
 
 **Software Architect · Tech Lead · .NET Enterprise · Applied AI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bayron--brzdev-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/bayron-brzdev)
-[![X](https://img.shields.io/badge/X-iamBrzDev-000000?style=flat-square&logo=x)](https://x.com/iamBrzDev)
-[![El Salvador](https://img.shields.io/badge/El_Salvador-🇸🇻-blue?style=flat-square)](https://github.com/iamBrzDev)
+[![LinkedIn](https://img.shields.io/badge/bayron--brzdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayron-brzdev)
+[![X](https://img.shields.io/badge/@iamBrzDev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iamBrzDev)
+[![El Salvador](https://img.shields.io/badge/El_Salvador-SV-0078D4?style=flat-square)](https://github.com/iamBrzDev)
 
 </div>
 
