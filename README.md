@@ -95,9 +95,7 @@ CI/CD First            →  Si no se puede desplegar en minutos, hay un problema
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamBrzDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=8B949E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamBrzDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=8B949E)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamBrzDev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E)](https://github.com/iamBrzDev)
 
 </div>
 
