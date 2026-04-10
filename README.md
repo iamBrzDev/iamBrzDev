@@ -186,9 +186,9 @@ Contribuyendo al ecosistema de **Agent Skills** para que las herramientas de IA 
 
 <div align="center">
 
-[![Total Commits](https://img.shields.io/badge/Total_Contributions-597-00C9FF?style=for-the-badge&logo=github)](https://github.com/iamBrzDev)
-[![Experience](https://img.shields.io/badge/Since-Oct_2013-0078D4?style=for-the-badge&logo=github)](https://github.com/iamBrzDev)
-[![Repos](https://img.shields.io/badge/Repos-Public_%26_Private-8B949E?style=for-the-badge&logo=github)](https://github.com/iamBrzDev?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=iamBrzDev&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS)
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamBrzDev&theme=github_dark)](https://github.com/iamBrzDev)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamBrzDev&theme=github-dark-blue&hide_border=true)
 
