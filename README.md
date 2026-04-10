@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:0078D4&height=220&section=header&text=Bayron%20Rodezno&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Architect%20%26%20Tech%20Lead%20%7C%20BrzDev&descSize=18&descAlignY=55&descColor=8B949E&animation=fadeIn" width="100%" />
+# Bayron Rodezno
+
+### Software Architect & Tech Lead | BrzDev
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/bayron--brzdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayron-brzdev)
 [![X](https://img.shields.io/badge/@iamBrzDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamBrzDev)
@@ -182,12 +186,11 @@ Contribuyendo al ecosistema de **Agent Skills** para que las herramientas de IA 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamBrzDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=8B949E&ring_color=00C9FF" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamBrzDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=8B949E" height="170" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamBrzDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamBrzDev&layout=compact&theme=github_dark&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamBrzDev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=8B949E&sideNums=FFFFFF&dates=8B949E)](https://github.com/iamBrzDev)
+![GitHub Streak](https://streak-stats.demolab.com?user=iamBrzDev&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -208,8 +211,6 @@ Si estas construyendo sistemas empresariales complejos, liderando equipos tecnic
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:0078D4&height=120&section=footer" width="100%" />
 
 <sub><strong>Disenando sistemas que escalan. Liderando equipos que crecen.</strong> — BrzDev</sub>
 
